@@ -23,3 +23,10 @@ This is a command-line interface (CLI) application that allows users to manage t
 5. Save tasks: `5`
 6. Load tasks: `6`
 7. Exit the application: `7`
+
+## Dummy Login Credentials
+
+- **Email**: `testuser@example.com`
+- **Password**: `password123`
+
+You can use these credentials to log in to the Task Manager CLI application.
